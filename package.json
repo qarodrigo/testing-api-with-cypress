@@ -1,0 +1,24 @@
+{
+  "name": "testing-api-wth-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigosta/testing-api-wth-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigosta/testing-api-wth-cypress/issues"
+  },
+  "homepage": "https://github.com/rodrigosta/testing-api-wth-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
