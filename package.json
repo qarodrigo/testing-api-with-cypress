@@ -20,5 +20,8 @@
   "homepage": "https://github.com/rodrigosta/testing-api-wth-cypress#readme",
   "devDependencies": {
     "cypress": "^8.4.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
